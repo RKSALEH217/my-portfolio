@@ -1,0 +1,106 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.banner-container{
+    background-color: gainsboro;
+
+}
+
+.banner-column{
+    background-color: gray;
+}
+.navbar-container{
+    top: 0;
+    background-color: cadetblue;
+    position: sticky;
+    z-index: 2;
+}
+
+.about-container{
+    background-color: antiquewhite;
+}
+
+.education-container{
+    background-color: #F6F4F1 ;
+}
+.bg-redtype{
+    background-color: darkgrey;
+}
+.redtype-color{
+    color: rgb(73, 118, 177) ;
+}
+.circle{
+    background-color:#B784A7;
+    width: 150px;
+    height: 120px;
+    border-radius: 50%;
+
+}
+.acheivement-container{
+    background-color: #ADDFAD;
+}
+.grey-color{
+    color: dimgrey;
+}
+
+.circlea{
+    background-color:#FBCEB1;
+    width: 500px;
+    height: 300px;
+    border-radius: 50%;
+    color: black ;
+}
+
+.bgc{
+    background-color: #D0F0C0;
+}
+
+.ccc{
+    background-color: #90EE90;
+}
+
+.community-container{
+    background-color: #F0EAD2;
+}
+
+.grin{
+    color: black;
+}
+
+.eca-container{
+    background-color: #778899;
+}
+.form-container{
+    background-color: #32174D;
+}
+.inner-form{
+    background-color: #36454F;
+}
+
+.bbc{
+    background-color: #91A3B0;
+}
+
+.bbc:hover{
+    color: blue!important;
+}
+
+.abc{
+    background-color: #FAF0E6;
+}
+
+.ccd{
+    background-color: #B2BEB5;
+}
+.bgd{
+    background-color: #F5F5F5;
+}
+
+.MM{
+    color: #F6F4F1;
+}
+
+.footer{
+    font-size: 25px;
+}
